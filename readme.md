@@ -1,4 +1,4 @@
-# Python para estudantes de Física - *O mínimo nescesário*
+# Python para estudantes de Física - *O mínimo necessário*
 ## Ementário
 Operações, tipos e variáveis. Controle de fluxo. Coleções: *lists*, *tuples*, *sets* e *dictionaries*. Funções. Classes.
 ## Objetivos
