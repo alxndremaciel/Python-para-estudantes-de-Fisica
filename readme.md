@@ -22,4 +22,4 @@ Apresentar uma introdução à linguagem de programação Python para estudantes
 - Exemplo de aplicação
     - Aulas ([Parte 1](https://youtu.be/C27GZfQuFtA), [Parte 2](https://youtu.be/umRZyU6YV2A))
 - Classes
-    - Aulas (Parte 1)
+    - Aulas ([Parte 1](https://youtu.be/k8TPwCyj2ug), Parte 2)
